@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "keybr-data-interpreter": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Work\\typing-data.json"
+    }
+  }
+}

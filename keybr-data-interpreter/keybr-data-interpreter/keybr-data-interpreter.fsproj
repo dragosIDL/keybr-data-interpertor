@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>keybr_data_interpreter</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="KeybrDataInterpreter.fs" />
+    <Compile Include="Program.fs" />
+    <Content Include="reference.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FSharp.Data" Version="3.0.0-beta4" />
+  </ItemGroup>
+
+</Project>

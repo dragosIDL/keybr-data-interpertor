@@ -1,0 +1,108 @@
+﻿{
+  "us-workman:auto": {
+    "data": [
+      {
+        "timeStamp": "2018-06-06T18:42:23.000Z",
+        "length": 182,
+        "time": 38017,
+        "errors": 8,
+        "speed": 287,
+        "histogram": [
+          {
+            "charCode": 32,
+            "hitCount": 40,
+            "missCount": 0,
+            "timeToType": 137
+          },
+          {
+            "charCode": 97,
+            "hitCount": 10,
+            "missCount": 1,
+            "timeToType": 207
+          },
+          {
+            "charCode": 101,
+            "hitCount": 59,
+            "missCount": 1,
+            "timeToType": 161
+          },
+          {
+            "charCode": 105,
+            "hitCount": 11,
+            "missCount": 1,
+            "timeToType": 202
+          },
+          {
+            "charCode": 110,
+            "hitCount": 29,
+            "missCount": 0,
+            "timeToType": 167
+          },
+          {
+            "charCode": 111,
+            "hitCount": 7,
+            "missCount": 0,
+            "timeToType": 294
+          },
+          {
+            "charCode": 116,
+            "hitCount": 26,
+            "missCount": 5,
+            "timeToType": 217
+          }
+        ]
+      },
+      {
+        "timeStamp": "2018-06-06T18:42:23.000Z",
+        "length": 182,
+        "time": 38017,
+        "errors": 8,
+        "speed": 287,
+        "histogram": [
+          {
+            "charCode": 32,
+            "hitCount": 40,
+            "missCount": 0,
+            "timeToType": 137
+          },
+          {
+            "charCode": 97,
+            "hitCount": 10,
+            "missCount": 1,
+            "timeToType": 207
+          },
+          {
+            "charCode": 101,
+            "hitCount": 59,
+            "missCount": 1,
+            "timeToType": 161
+          },
+          {
+            "charCode": 105,
+            "hitCount": 11,
+            "missCount": 1,
+            "timeToType": 202
+          },
+          {
+            "charCode": 110,
+            "hitCount": 29,
+            "missCount": 0,
+            "timeToType": 167
+          },
+          {
+            "charCode": 111,
+            "hitCount": 7,
+            "missCount": 0,
+            "timeToType": 294
+          },
+          {
+            "charCode": 116,
+            "hitCount": 26,
+            "missCount": 5,
+            "timeToType": 217
+          }
+        ]
+      }
+    ]
+  }
+}
