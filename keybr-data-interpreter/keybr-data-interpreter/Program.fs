@@ -4,12 +4,12 @@ open KeybrDataInterpreter
 let (./.) x y = 
     (x |> float ) / (y |> float) 
 
-let ``get space or char value`` c =
+let charStringOrSPACE c =
     if c = (char)32 then "SPACE" else c.ToString()
 
 let prettyPrintHistogram (data: KeybrData.Histogram) = 
 
-    let charName = ``get space or char value`` (data.CharCode |> char)
+    let charName = charStringOrSPACE (data.CharCode |> char)
     
     let missToHitCountRatio = data.MissCount ./. data.HitCount
 
@@ -53,4 +53,4 @@ let main argv =
 
     Console.ReadLine() |> ignore
 
-    0 // return an integer exit code
+    0
